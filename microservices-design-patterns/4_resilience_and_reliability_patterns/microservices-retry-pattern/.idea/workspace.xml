@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d202fd78-8049-4b7f-a195-e5999f35abf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ecom-order-service/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecom-order-service/spring-retry.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-inventory-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-inventory-service/src/main/java/org/codesnippet/ecominventoryservice/controllers/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-inventory-service/src/main/java/org/codesnippet/ecominventoryservice/controllers/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/EcomOrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/config/RestClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/src/main/java/config/RestClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/config/RestTemplateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/src/main/java/config/RestTemplateConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/src/main/java/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/dto/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/src/main/java/dto/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/exceptions/MyCustomRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/src/main/java/exceptions/MyCustomRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ecom-order-service/src/main/java/org/codesnippet/ecomorderservice/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecom-order-service/src/main/java/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ecom-order-service" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prabhatzgit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/codesnippetjava/eureka-server.git&quot;,
+    &quot;accountId&quot;: &quot;0e793999-3ac8-495b-85cc-51e6947f3551&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Iqx7aBevMOXO0WEq4DKlimF1X4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.ecom-inventory-service [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ecom-order-service [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.eureka-server [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/prabhat/microservice_workspace/microservices-design-patterns/4_resilience_and_reliability_patterns/microservices-retry-pattern&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MicroservicesRetryPatternApplication">
+    <configuration name="EcomInventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ecom-inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.codesnippet.ecominventoryservice.EcomInventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcomOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ecom-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.codesnippet.ecomorderservice.EcomOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.codesnippet.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroservicesRetryPatternApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservices-retry-pattern" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.retry.pattern.MicroservicesRetryPatternApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.258" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.258" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d202fd78-8049-4b7f-a195-e5999f35abf3" name="Changes" comment="" />
+      <created>1788505733539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788505733539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -20,14 +20,12 @@ public interface RatingService {
     //POST
 
     @PostMapping("/ratings")
-    public ResponseEntity<Rating> createRating(Rating values);
-
+    ResponseEntity<Rating> createRating(Rating values);
 
     //PUT
     @PutMapping("/ratings/{ratingId}")
-    public ResponseEntity<Rating> updateRating(@PathVariable("ratingId") String ratingId, Rating rating);
-
+    ResponseEntity<Rating> updateRating(@PathVariable("ratingId") String ratingId, Rating rating);
 
     @DeleteMapping("/ratings/{ratingId}")
-    public void deleteRating(@PathVariable String ratingId);
+    void deleteRating(@PathVariable String ratingId);
 }

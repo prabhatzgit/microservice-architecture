@@ -20,8 +20,8 @@ public class RatingController {
         this.ratingService=ratingService;
     }
     // create hotel
-    @PostMapping("/create")
-    public ResponseEntity<Rating> createHotel(@RequestBody Rating rating) {
+    @PostMapping
+    public ResponseEntity<Rating> createHotelRating(@RequestBody Rating rating) {
         return ResponseEntity.status(HttpStatus.CREATED)
                 .body(ratingService.create(rating));
     }

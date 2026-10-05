@@ -4,13 +4,13 @@ import com.javaexplore.hotel.entity.Hotel;
 import com.javaexplore.hotel.repository.HotelRepository;
 import com.javaexplore.hotel.service.HotelService;
 import com.javaexplore.hotel.exception.ResourceNotFoundException;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.UUID;
 
-@Component
+@Service
 public class HotelServiceImpl implements HotelService {
 
     private HotelRepository hotelRepository;

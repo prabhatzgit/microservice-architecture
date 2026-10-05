@@ -30,6 +30,7 @@ public class UserController {
     public ResponseEntity<User> getSingleUser(@PathVariable String userId){
         // case1: get user from database with help of user repository
         User user = userService.getUser(userId);
+        // case1: fetch rating of above user from rating service
         return ResponseEntity.ok(user);
     }
 

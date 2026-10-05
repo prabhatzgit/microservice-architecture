@@ -1,6 +1,7 @@
 package com.javaexplore.hotel.service;
 
 import com.javaexplore.hotel.entity.Hotel;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 

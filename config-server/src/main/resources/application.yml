@@ -1,0 +1,37 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: config-server
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/prabhatzgit/microservice-architecture-repo-config
+          clone-on-start: true
+
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: false
+    instance-id: ${spring.application.name}:${server.port}
+    # prefer-ip-address: true # show  RiddhiNiddhi.mshome.net
+    status-page-url-path: /actuator/info
+    health-check-url-path: /actuator/health
+
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+management:
+  endpoints:
+    web:
+      exposure:
+        # 1. This attribute includes/exposes health and info to the web gateway
+        include: "health,info"
+  endpoint:
+    health:
+      show-details: always
